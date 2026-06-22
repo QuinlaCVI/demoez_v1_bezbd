@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "Login": "admin",
+    "Password": "admin",
+    "Role": "admin",
+    "IsBlocked": false
+  },
+  {
+    "Id": 2,
+    "Login": "user1",
+    "Password": "user1",
+    "Role": "user",
+    "IsBlocked": false
+  },
+  {
+    "Id": 3,
+    "Login": "user2",
+    "Password": "user2",
+    "Role": "user",
+    "IsBlocked": true
+  },
+  {
+    "Id": 4,
+    "Login": "Polina",
+    "Password": "123123",
+    "Role": "admin",
+    "IsBlocked": false
+  },
+  {
+    "Id": 5,
+    "Login": "Linka",
+    "Password": "qweqwe",
+    "Role": "user",
+    "IsBlocked": true
+  }
+]
